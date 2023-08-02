@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "convert-excel-to-json": "^1.7.0"
+  },
+  "name": "excel",
+  "version": "1.0.0",
+  "description": "convert to excel",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "modules"
+  },
+  "author": "Mildred",
+  "license": "ISC"
+}
